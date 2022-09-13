@@ -1,11 +1,11 @@
 # Todo-List
 
 # Description
-This is a simple todo list app that let you add and delete items to your list.
+This is a simple todo list app built using react that lets you add and delete items to your list.
 # How to run
-Upload all files and launch the index.html file on your browser
+Upload all files and launch the html file on your localhost server.
 # Roadmap of future improvements
-Make the list a bit more dynamic
+Make the app a bit more dynamic
 # License
 MIT License
 
